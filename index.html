@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Many Cities of Delhi — Layers of Empires</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="sidebar">
+    <!-- Main Title & Subtitle Header -->
+    <div style="margin-bottom: 4px;">
+      <h1 style="font-family: 'JSL Ancient', Georgia, serif; font-size: 40px; color: #ffffff; font-weight: normal; margin: 0; line-height: 1.2;">
+        The many cities of Delhi
+      </h1>
+      <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; font-size: 24px; color: #e66e22; font-weight: 600; text-transform: uppercase; letter-spacing: 1.2px; margin-top: 4px;">
+        Layers of empires
+      </h2>
+    </div>
+    
+    <!-- Search Container with Dropdown Suggestions -->
+    <div class="search-box-container">
+      <input type="text" id="search-input" placeholder="Search monument (e.g. Ugrasen)..." autocomplete="off" />
+      <div id="search-results" class="search-results-dropdown"></div>
+    </div>
+
+    <div class="btn-group">
+      <button onclick="toggleAllLayers(true)">Select All</button>
+      <button onclick="toggleAllLayers(false)">Deselect All</button>
+    </div>
+    <div id="layer-list"></div>
+  </div>
+
+  <div id="map"></div>
+
+  <!-- Google Maps Style Slide-Out Info Card -->
+  <div id="info-card">
+    <button class="close-card-btn" onclick="closeInfoCard()">&times;</button>
+    <div class="card-hero-image" id="card-hero">
+      <div class="image-loader" id="card-loader">Loading image...</div>
+    </div>
+    <div class="card-content">
+      <h2 id="card-title">Monument Name</h2>
+      <div class="card-badges">
+        <span id="card-kingdom-badge" class="badge-kingdom">Kingdom</span>
+        <span id="card-era-badge" class="badge-era">Era</span>
+      </div>
+      <p id="card-desc" class="card-description"></p>
+      
+      <a id="card-directions-btn" target="_blank" rel="noopener" class="directions-btn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+        Get Directions on Google Maps
+      </a>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="app.js"></script>
+</body>
+</html>

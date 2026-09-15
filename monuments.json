@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Iron Pillar of Delhi",
+    "lat": 28.5247,
+    "lng": 77.1852,
+    "description": "A 7.2m rust-resistant iron pillar with Brahmi inscriptions. Citations: Balasubramaniam, R. (2005), 'Story of the Delhi Iron Pillar'; Upinder Singh (2006), 'Delhi: Ancient History to the Present'.",
+    "era": "c. 375\u2013415 CE",
+    "kingdom": "Gupta Empire"
+  },
+  {
+    "name": "Rock Edict of Ashoka (Srinivaspuri)",
+    "lat": 28.5583,
+    "lng": 77.2558,
+    "description": "An in-situ Minor Rock Edict carved into quartzite detailing Ashoka's Dhamma teachings. Citations: Upinder Singh (2006), 'Delhi: Ancient History to the Present'; Romila Thapar (1961), 'Asoka and the Decline of the Mauryas'.",
+    "era": "c. 250 BCE",
+    "kingdom": "Maurya Empire"
+  },
+  {
+    "name": "Ashokan Pillar (Feroz Shah Kotla)",
+    "lat": 28.6358,
+    "lng": 77.2425,
+    "description": "Monolithic sandstone pillar brought from Topra in 1356 CE by Feroz Shah Tughlaq. Citations: Shams-i Siraj 'Afif, 'Tarikh-i-Firoz Shahi'; Upinder Singh (2006), 'Delhi: Ancient History to the Present'.",
+    "era": "c. 250 BCE",
+    "kingdom": "Maurya Empire"
+  },
+  {
+    "name": "Ashokan Pillar (Northern Ridge)",
+    "lat": 28.6736,
+    "lng": 77.2125,
+    "description": "Monolithic sandstone pillar brought from Meerut and re-erected on the Northern Ridge. Citations: Catherine B. Asher (1992), 'Architecture of Mughal India'; Upinder Singh (2006), 'Delhi: Ancient History to the Present'.",
+    "era": "c. 250 BCE",
+    "kingdom": "Maurya Empire"
+  },
+  {
+    "name": "Anangtal Baoli",
+    "lat": 28.5222,
+    "lng": 77.1825,
+    "description": "An 11th-century masonry step-well built by Tomar king Anangpal II in Lal Kot. Citations: B.R. Mani (1997), 'Excavations at Lal Kot 1991-92 and Beyond'; Upinder Singh (2006), 'Delhi: Ancient History to the Present'.",
+    "era": "c. 1060 CE",
+    "kingdom": "Tomar Rajput"
+  },
+  {
+    "name": "Lal Kot & Wall of Kila Rai Pithora",
+    "lat": 28.5236,
+    "lng": 77.1852,
+    "description": "Massive stone fortification walls defining the early medieval city of Delhi. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Cynthia Talbot (2015), 'The Last Hindu Emperor: Prithviraj Chauhan'.",
+    "era": "1060\u20131180 CE",
+    "kingdom": "Tomar Chahamana"
+  },
+  {
+    "name": "Qutb Minar Complex",
+    "lat": 28.5245,
+    "lng": 77.1855,
+    "description": "Includes the 73m victory minaret, Quwwat-ul-Islam Mosque, and iron pillar. Citations: J.A. Page (1926), 'An Historical Memoir on the Qutb: Delhi (ASI)'; Percy Brown (1942), 'Indian Architecture: Islamic Period'.",
+    "era": "1192\u20131220 CE",
+    "kingdom": "Mamluk Sultanate"
+  },
+  {
+    "name": "Tomb of Iltutmish",
+    "lat": 28.5252,
+    "lng": 77.1848,
+    "description": "Square sandstone mausoleum with Arabic calligraphy and geometric carvings. Citations: Catherine B. Asher (1992), 'Architecture of Mughal India'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1235 CE",
+    "kingdom": "Mamluk Sultanate"
+  },
+  {
+    "name": "Sultan Ghari",
+    "lat": 28.5369,
+    "lng": 77.135,
+    "description": "India's earliest Islamic mausoleum, built as an underground crypt for Prince Nasiruddin Mahmud. Citations: S.A.A. Rizvi (1987), 'The Wonder That Was India Vol. II'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1231 CE",
+    "kingdom": "Mamluk Sultanate"
+  },
+  {
+    "name": "Balban's Tomb",
+    "lat": 28.5204,
+    "lng": 77.1857,
+    "description": "Historical ruin containing the earliest true arch and dome in Indian Islamic architecture. Citations: Percy Brown (1942), 'Indian Architecture: Islamic Period'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "c. 1287 CE",
+    "kingdom": "Mamluk Sultanate"
+  },
+  {
+    "name": "Alai Darwaza & Alai Minar",
+    "lat": 28.5242,
+    "lng": 77.1858,
+    "description": "Red sandstone gateway with marble inlay and the base of an ambitious unfinished giant minaret. Citations: Percy Brown (1942), 'Indian Architecture: Islamic Period'; J.A. Page (1926), 'An Historical Memoir on the Qutb (ASI)'.",
+    "era": "1311 CE",
+    "kingdom": "Khalji Dynasty"
+  },
+  {
+    "name": "Siri Fort Remains (Shahpur Jat)",
+    "lat": 28.5478,
+    "lng": 77.2158,
+    "description": "Rubble fortification walls of Delhi\u2019s second medieval city built to repel Mongol invasions. Citations: Peter Jackson (1999), 'The Delhi Sultanate: A Political and Military History'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "c. 1303 CE",
+    "kingdom": "Khalji Dynasty"
+  },
+  {
+    "name": "Chor Minar",
+    "lat": 28.5489,
+    "lng": 77.2038,
+    "description": "Stone tower with 225 holes used to display severed heads of executed Mongol prisoners. Citations: R.V. Smith (2005), 'The Delhi That No-one Knows'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "c. 1300 CE",
+    "kingdom": "Khalji Dynasty"
+  },
+  {
+    "name": "Tughlaqabad Fort",
+    "lat": 28.5142,
+    "lng": 77.2589,
+    "description": "Colossal stone fortress with massive bastions housing the third city of Delhi. Citations: Anthony Welch & Howard Crane (1983), 'The Tughluqs: Master Builders of the Delhi Sultanate'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1321\u20131325 CE",
+    "kingdom": "Tughlaq Dynasty"
+  },
+  {
+    "name": "Ghiyasuddin Tughlaq's Tomb",
+    "lat": 28.5144,
+    "lng": 77.2619,
+    "description": "Pentagonal fortress tomb made of red sandstone with a white marble dome. Citations: Anthony Welch (1983), 'The Tughluqs: Master Builders of the Delhi Sultanate'; Percy Brown (1942), 'Indian Architecture: Islamic Period'.",
+    "era": "1325 CE",
+    "kingdom": "Tughlaq Dynasty"
+  },
+  {
+    "name": "Adilabad Fort",
+    "lat": 28.5061,
+    "lng": 77.2689,
+    "description": "Citadel south of Tughlaqabad built in heavy-rubble architectural style. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Tatsuro Yamamoto et al. (1967), 'Delhi: Architectural Remains of the Delhi Sultanate Period'.",
+    "era": "c. 1326 CE",
+    "kingdom": "Tughlaq Dynasty"
+  },
+  {
+    "name": "Bijay Mandal & Ramparts",
+    "lat": 28.5414,
+    "lng": 77.2081,
+    "description": "Remains of a palace structure believed to be the 'Palace of Thousand Pillars' in Jahanpanah. Citations: H. Suroor (2011), 'Delhi: 1000 Years of Building'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "c. 1325 CE",
+    "kingdom": "Tughlaq Dynasty"
+  },
+  {
+    "name": "Begumpur Mosque",
+    "lat": 28.5386,
+    "lng": 77.2061,
+    "description": "Massive multi-domed congregational mosque serving Jahanpanah. Citations: Anthony Welch (1983), 'The Tughluqs: Master Builders of the Delhi Sultanate'; Matsuo Ara (1982), 'The Historical Monuments of the Delhi Sultanate'.",
+    "era": "c. 1370 CE",
+    "kingdom": "Tughlaq Dynasty"
+  },
+  {
+    "name": "Khirki Mosque",
+    "lat": 28.5314,
+    "lng": 77.2197,
+    "description": "Roofed fortress-style mosque with latticed windows (khirki) and grid courtyards. Citations: Anthony Welch (1983), 'The Tughluqs: Master Builders of the Delhi Sultanate'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "c. 1375 CE",
+    "kingdom": "Tughlaq Dynasty"
+  },
+  {
+    "name": "Satpula",
+    "lat": 28.5297,
+    "lng": 77.2217,
+    "description": "Seven-arched stone dam and water gate built into the wall of Jahanpanah. Citations: Lucy Peck (2005), 'Delhi: A Thousand Years of Building'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1343 CE",
+    "kingdom": "Tughlaq Dynasty"
+  },
+  {
+    "name": "Hauz Khas Complex & Feroz Shah Tomb",
+    "lat": 28.5461,
+    "lng": 77.1942,
+    "description": "Islamic seminary, mosque, and L-shaped tomb complex built around a reservoir. Citations: Sayyid Ahmad Khan (1847), 'Asar-us-Sanadid'; Anthony Welch (1983), 'The Tughluqs: Master Builders of the Delhi Sultanate'.",
+    "era": "1352\u20131388 CE",
+    "kingdom": "Tughlaq Dynasty"
+  },
+  {
+    "name": "Feroz Shah Kotla",
+    "lat": 28.6358,
+    "lng": 77.2425,
+    "description": "Citadel of Firozabad with palace ruins, grand mosque, and an Ashokan pillar. Citations: Shams-i Siraj 'Afif, 'Tarikh-i-Firoz Shahi'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "1354 CE",
+    "kingdom": "Tughlaq Dynasty"
+  },
+  {
+    "name": "Kalu Sarai Mosque",
+    "lat": 28.5383,
+    "lng": 77.2025,
+    "description": "Partially ruined neighborhood mosque in Malviya Nagar with plaster-coated domes. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "c. 1380 CE",
+    "kingdom": "Tughlaq Dynasty"
+  },
+  {
+    "name": "Tomb of Mubarak Shah",
+    "lat": 28.5722,
+    "lng": 77.2206,
+    "description": "Octagonal royal mausoleum with an arcade and sloping buttresses. Citations: Percy Brown (1942), 'Indian Architecture: Islamic Period'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1434 CE",
+    "kingdom": "Sayyid Dynasty"
+  },
+  {
+    "name": "Mohammad Shah's Tomb",
+    "lat": 28.5908,
+    "lng": 77.2192,
+    "description": "Classic octagonal tomb in Lodi Gardens adorned with chhatris and tiles. Citations: Catherine B. Asher (1992), 'Architecture of Mughal India'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1444 CE",
+    "kingdom": "Sayyid Dynasty"
+  },
+  {
+    "name": "Bahlol Lodi's Tomb",
+    "lat": 28.5342,
+    "lng": 77.2472,
+    "description": "Multi-domed sandstone structure built for the founder of the Lodi Dynasty. Citations: Sayyid Ahmad Khan (1847), 'Asar-us-Sanadid'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1489 CE",
+    "kingdom": "Lodi Dynasty"
+  },
+  {
+    "name": "Sikandar Lodi's Tomb",
+    "lat": 28.5931,
+    "lng": 77.2181,
+    "description": "Octagonal tomb set in a walled garden, precursor to Mughal double-dome layout. Citations: Percy Brown (1942), 'Indian Architecture: Islamic Period'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "1517 CE",
+    "kingdom": "Lodi Dynasty"
+  },
+  {
+    "name": "Bara Gumbad & Mosque",
+    "lat": 28.5925,
+    "lng": 77.2203,
+    "description": "Large domed gateway attached to a richly decorated three-bay mosque in Lodi Gardens. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "1490 CE",
+    "kingdom": "Lodi Dynasty"
+  },
+  {
+    "name": "Moth-ki-Masjid",
+    "lat": 28.5608,
+    "lng": 77.2183,
+    "description": "Signature Lodi mosque with sandstone and plaster filigree. Citations: Sayyid Ahmad Khan (1847), 'Asar-us-Sanadid'; Percy Brown (1942), 'Indian Architecture: Islamic Period'.",
+    "era": "c. 1505 CE",
+    "kingdom": "Lodi Dynasty"
+  },
+  {
+    "name": "Rajon ki Baoli",
+    "lat": 28.5192,
+    "lng": 77.1819,
+    "description": "Elaborate three-storey stepwell with attached mosque and tomb in Mehrauli. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "1516 CE",
+    "kingdom": "Lodi Dynasty"
+  },
+  {
+    "name": "Dadi-Poti & Biran Gumbads",
+    "lat": 28.5528,
+    "lng": 77.2028,
+    "description": "Cluster of prominent Lodi-era domed tombs in Green Park / Hauz Khas. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "15th Century",
+    "kingdom": "Lodi Dynasty"
+  },
+  {
+    "name": "Purana Qila (Old Fort)",
+    "lat": 28.6083,
+    "lng": 77.2436,
+    "description": "Massive stone fortifications built on the historic mound of Indraprastha. Citations: M.C. Joshi (1993), 'Excavations at Purana Qila'; Catherine B. Asher (1992), 'Architecture of Mughal India'.",
+    "era": "1538\u20131545 CE",
+    "kingdom": "Mughal Suri"
+  },
+  {
+    "name": "Qila-i-Kuhna Mosque",
+    "lat": 28.6081,
+    "lng": 77.2444,
+    "description": "Transitional mosque in Purana Qila showcasing pointed arches and marble inlay. Citations: Percy Brown (1942), 'Indian Architecture: Islamic Period'; Catherine B. Asher (1992), 'Architecture of Mughal India'.",
+    "era": "1541 CE",
+    "kingdom": "Suri Dynasty"
+  },
+  {
+    "name": "Isa Khan's Tomb & Mosque",
+    "lat": 28.5919,
+    "lng": 77.2472,
+    "description": "Octagonal tomb enclosure predating Humayun\u2019s Tomb, inside the complex. Citations: Catherine B. Asher (1992), 'Architecture of Mughal India'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1547 CE",
+    "kingdom": "Suri Dynasty"
+  },
+  {
+    "name": "Salimgarh Fort",
+    "lat": 28.6603,
+    "lng": 77.2428,
+    "description": "Island fortress on the Yamuna, later converted into a state prison. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Swapna Liddle (2011), 'Chandni Chowk: The Shopkeeper's Delight'.",
+    "era": "1546 CE",
+    "kingdom": "Suri Dynasty"
+  },
+  {
+    "name": "Sher Mandal",
+    "lat": 28.6072,
+    "lng": 77.2442,
+    "description": "Octagonal red sandstone tower used as an observatory and library by Humayun. Citations: Catherine B. Asher (1992), 'Architecture of Mughal India'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "c. 1541 CE",
+    "kingdom": "Suri Mughal"
+  },
+  {
+    "name": "Humayun's Tomb",
+    "lat": 28.5933,
+    "lng": 77.2507,
+    "description": "UNESCO site; first garden-tomb on the Indian subcontinent. Citations: Glenn D. Lowry (1987), 'Humayun's Tomb: Form, Function, and Meaning in Early Mughal Architecture'; Ebba Koch (2002), 'Mughal Architecture'.",
+    "era": "1565\u20131572 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Arab ki Serai Gateway",
+    "lat": 28.5914,
+    "lng": 77.2458,
+    "description": "Monumental entrance to the courtyard that housed Persian craftsmen for Humayun's Tomb. Citations: Catherine B. Asher (1992), 'Architecture of Mughal India'; AKTC Report (2010), 'Humayun's Tomb Urban Renewal Project'.",
+    "era": "1560s CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Afsarwala Tomb & Mosque",
+    "lat": 28.5912,
+    "lng": 77.2453,
+    "description": "Located inside Humayun's Tomb complex; octagonal tomb on raised platform. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "1566 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Ataga Khan's Tomb",
+    "lat": 28.5911,
+    "lng": 77.2428,
+    "description": "Decorated marble and sandstone tomb in Nizamuddin built for Akbar's prime minister. Citations: Ebba Koch (2002), 'Mughal Architecture'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1566\u20131567 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Tomb of Khan-i-Khanan (Abdul Rahim)",
+    "lat": 28.5886,
+    "lng": 77.2494,
+    "description": "Built for his wife and later his own resting place; stripped for Safdarjung's Tomb. Citations: Allison Busch (2011), 'Poetry of Kings: The Classical Hindi Literature of Mughal India'; AKTC Conservation Document (2020).",
+    "era": "1598 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Red Fort (Lal Qila)",
+    "lat": 28.6562,
+    "lng": 77.241,
+    "description": "Imperial palace fortress of red sandstone forming Shahjahanabad's core. Citations: Ebba Koch (2001), 'The Complete Taj Mahal and the Riverfront Gardens of Agra/Delhi'; Gordon Sanderson (1914), 'The Red Fort, Delhi: Archaeological Survey of India Memoir'.",
+    "era": "1638\u20131648 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Jama Masjid",
+    "lat": 28.6507,
+    "lng": 77.2334,
+    "description": "One of India's largest congregational mosques, built with red sandstone and white marble. Citations: Catherine B. Asher (1992), 'Architecture of Mughal India'; Stephe Blake (1991), 'Shahjahanabad: The Sovereign City in Mughal India'.",
+    "era": "1650\u20131656 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Roshanara Bagh & Tomb",
+    "lat": 28.6703,
+    "lng": 77.1981,
+    "description": "Vast Mughal garden surrounding the open-air pavilion tomb of Princess Roshanara. Citations: Ebba Koch (2002), 'Mughal Architecture'; Swapna Liddle (2018), 'Delhi: 14 Historic Walks'.",
+    "era": "1650 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Shalimar Bagh (Sheesh Mahal)",
+    "lat": 28.7119,
+    "lng": 77.1636,
+    "description": "Royal country palace and garden where Aurangzeb crowned himself emperor in 1658. Citations: Stephen Blake (1991), 'Shahjahanabad: The Sovereign City in Mughal India'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1653 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Moti Masjid (Red Fort)",
+    "lat": 28.6575,
+    "lng": 77.2422,
+    "description": "Small three-domed private mosque built entirely in white marble inside Red Fort. Citations: Ebba Koch (2002), 'Mughal Architecture'; Catherine B. Asher (1992), 'Architecture of Mughal India'.",
+    "era": "1659 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Chaunsath Khamba",
+    "lat": 28.5908,
+    "lng": 77.2433,
+    "description": "Unique hall constructed entirely of white marble with 64 pillars in Nizamuddin. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "1623 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Barapullah Bridge",
+    "lat": 28.5864,
+    "lng": 77.2481,
+    "description": "11-arched stone bridge spanning the Kushak Nallah near Nizamuddin. Citations: Lucy Peck (2005), 'Delhi: A Thousand Years of Building'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1628 CE",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Chini ka Rauza (Delhi)",
+    "lat": 28.5921,
+    "lng": 77.2441,
+    "description": "Small tomb in Nizamuddin decorated with Persian glazed tilework (chini). Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "17th Century",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Badli-ki-Serai Ruins",
+    "lat": 28.7297,
+    "lng": 77.1583,
+    "description": "Historic traveler resting house on GT Road, later site of 1857 battle. Citations: William Dalrymple (2006), 'The Last Mughal'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "17th Century",
+    "kingdom": "Mughal Dynasty"
+  },
+  {
+    "name": "Jamali Kamali Mosque & Tomb",
+    "lat": 28.5197,
+    "lng": 77.1858,
+    "description": "Sandstone mosque and tomb adorned with colorful tiles and Persian verses. Citations: Karen Toshima (2002), 'Sufi Shrines of Delhi'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1528\u20131536 CE",
+    "kingdom": "Lodi Early Mughal"
+  },
+  {
+    "name": "Nila Gumbad & Sabz Burj",
+    "lat": 28.5908,
+    "lng": 77.245,
+    "description": "Early Mughal tombs featuring glazed blue and green Timurid tilework. Citations: Ebba Koch (2002), 'Mughal Architecture'; ASI Monograph (2019), 'Humayun's Tomb Conservation Project'.",
+    "era": "c. 1530\u20131560 CE",
+    "kingdom": "Early Mughal"
+  },
+  {
+    "name": "Zeenat-ul-Masajid (Ghata Masjid)",
+    "lat": 28.6472,
+    "lng": 77.2411,
+    "description": "Riverside mosque in Daryaganj built on high plinth with black-white striped domes. Citations: Stephen Blake (1991), 'Shahjahanabad: The Sovereign City in Mughal India'; Catherine B. Asher (1992), 'Architecture of Mughal India'.",
+    "era": "1707 CE",
+    "kingdom": "Late Mughal"
+  },
+  {
+    "name": "Fakhr-ul-Masajid",
+    "lat": 28.6669,
+    "lng": 77.2289,
+    "description": "Ornate red sandstone and marble mosque in Kashmiri Gate built in 1728. Citations: Sayyid Ahmad Khan (1847), 'Asar-us-Sanadid'; Swapna Liddle (2011), 'Chandni Chowk: The Shopkeeper's Delight'.",
+    "era": "1728 CE",
+    "kingdom": "Late Mughal"
+  },
+  {
+    "name": "Tripolia Gates",
+    "lat": 28.6853,
+    "lng": 77.1906,
+    "description": "Two triple-arched brick and stone gateways standing on GT Road in Rana Pratap Bagh. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "1728 CE",
+    "kingdom": "Late Mughal"
+  },
+  {
+    "name": "Sunehri Masjid (Chandni Chowk)",
+    "lat": 28.6558,
+    "lng": 77.2322,
+    "description": "Gilded three-domed mosque where Nadir Shah directed the 1739 massacre. Citations: William Dalrymple (2006), 'The Last Mughal'; Stephen Blake (1991), 'Shahjahanabad: The Sovereign City in Mughal India'.",
+    "era": "1744 CE",
+    "kingdom": "Late Mughal"
+  },
+  {
+    "name": "Qudsia Bagh & Mosque",
+    "lat": 28.6681,
+    "lng": 77.2281,
+    "description": "Former royal pleasure garden and palace complex north of the old city wall. Citations: Swapna Liddle (2018), 'Delhi: 14 Historic Walks'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1748 CE",
+    "kingdom": "Late Mughal"
+  },
+  {
+    "name": "Sunehri Masjid (Red Fort)",
+    "lat": 28.6538,
+    "lng": 77.2403,
+    "description": "Located near Delhi Gate of Red Fort with gilded copper domes. Citations: Catherine B. Asher (1992), 'Architecture of Mughal India'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "1751 CE",
+    "kingdom": "Late Mughal"
+  },
+  {
+    "name": "Safdarjung's Tomb",
+    "lat": 28.5892,
+    "lng": 77.2106,
+    "description": "Last garden-tomb of Mughal style built for the Vizier of Emperor Ahmad Shah. Citations: Catherine B. Asher (1992), 'Architecture of Mughal India'; Percy Brown (1942), 'Indian Architecture: Islamic Period'.",
+    "era": "1754 CE",
+    "kingdom": "Late Mughal"
+  },
+  {
+    "name": "Sunehri Masjid (Sardar Patel Marg)",
+    "lat": 28.6112,
+    "lng": 77.2085,
+    "description": "Gilded-dome neighborhood mosque near modern Central Vista. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "18th Century",
+    "kingdom": "Late Mughal"
+  },
+  {
+    "name": "Zafar Mahal & Moti Masjid",
+    "lat": 28.5217,
+    "lng": 77.1822,
+    "description": "Final summer palace built by the last Mughal Emperor Bahadur Shah Zafar in Mehrauli. Citations: William Dalrymple (2006), 'The Last Mughal'; Swapna Liddle (2018), 'Delhi: 14 Historic Walks'.",
+    "era": "1842 CE",
+    "kingdom": "Late Mughal"
+  },
+  {
+    "name": "Hijron ka Khanqah",
+    "lat": 28.5211,
+    "lng": 77.1852,
+    "description": "Spiritual retreat in Mehrauli containing graves dedicated to transgender individuals. Citations: Karen Toshima (2002), 'Sufi Shrines of Delhi'; Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'.",
+    "era": "15th\u201317th Century",
+    "kingdom": "Lodi Mughal"
+  },
+  {
+    "name": "Gandhak ki Baoli",
+    "lat": 28.5194,
+    "lng": 77.1803,
+    "description": "Delhi's oldest operational step-well in Mehrauli named after sulfurous water. Citations: Y.D. Sharma (1974), 'Delhi and its Neighbourhood (ASI)'; Lucy Peck (2005), 'Delhi: A Thousand Years of Building'.",
+    "era": "c. 1510 / Mughal use",
+    "kingdom": "Lodi Mughal"
+  },
+  {
+    "name": "St. James' Church",
+    "lat": 28.6664,
+    "lng": 77.2294,
+    "description": "One of Delhi's oldest churches, built in Renaissance Neo-Classical cross layout. Citations: William Dalrymple (2006), 'The Last Mughal'; Swapna Liddle (2018), 'Delhi: 14 Historic Walks'.",
+    "era": "1836 CE",
+    "kingdom": "British Colonial"
+  },
+  {
+    "name": "Mutiny Memorial (Ajitgarh)",
+    "lat": 28.6708,
+    "lng": 77.2114,
+    "description": "Gothic spire on Northern Ridge commemorating soldiers from the 1857 siege. Citations: William Dalrymple (2006), 'The Last Mughal'; Christopher Hibbert (1978), 'The Great Mutiny: India 1857'.",
+    "era": "1863 CE",
+    "kingdom": "British Colonial"
+  },
+  {
+    "name": "Coronation Park Site",
+    "lat": 28.7183,
+    "lng": 77.195,
+    "description": "Open ground used for three Imperial Durbars (1877, 1903, 1911). Citations: Robert Irving (1981), 'Indian Summer: Lutyens, Baker, and Imperial Delhi'; Narayani Gupta (1981), 'Delhi Between Two Empires 1803-1931'.",
+    "era": "1877\u20131911 CE",
+    "kingdom": "British Colonial"
+  },
+  {
+    "name": "Rashtrapati Bhavan",
+    "lat": 28.6143,
+    "lng": 77.1994,
+    "description": "Originally Viceroy's House; Neo-Classical palace with Buddhist/Indian motifs. Citations: Robert Irving (1981), 'Indian Summer: Lutyens, Baker, and Imperial Delhi'; Christopher Hussey (1950), 'The Life of Sir Edwin Lutyens'.",
+    "era": "1912\u20131929 CE",
+    "kingdom": "British Colonial"
+  },
+  {
+    "name": "Parliament House (Old)",
+    "lat": 28.6172,
+    "lng": 77.2081,
+    "description": "Colonnaded circular sandstone building inspired by Chausath Yogini Temple. Citations: Robert Irving (1981), 'Indian Summer: Lutyens, Baker, and Imperial Delhi'; Narayani Gupta (1981), 'Delhi Between Two Empires'.",
+    "era": "1921\u20131927 CE",
+    "kingdom": "British Colonial"
+  },
+  {
+    "name": "India Gate",
+    "lat": 28.6129,
+    "lng": 77.2295,
+    "description": "42m-high war memorial arch honoring Commonwealth soldiers from WWI. Citations: Robert Irving (1981), 'Indian Summer: Lutyens, Baker, and Imperial Delhi'; Gavin Stamp (2002), 'The Memorial to the Missing of the Somme'.",
+    "era": "1921\u20131931 CE",
+    "kingdom": "British Colonial"
+  }
+]
