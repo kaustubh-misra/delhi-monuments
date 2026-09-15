@@ -14,6 +14,17 @@ const colors = [
   '#e5c07b', '#98c379', '#56b6c2', '#c678dd', '#d19a66', '#e06c75'
 ];
 
+// Sidebar Toggle Functionality
+function toggleSidebar() {
+  const sidebar = document.getElementById('sidebar');
+  sidebar.classList.toggle('collapsed');
+
+  // Trigger Leaflet map redrawing after sidebar transition finishes
+  setTimeout(() => {
+    map.invalidateSize();
+  }, 360);
+}
+
 function createTeardropIcon(color, kingdomName) {
   const slug = kingdomName.toLowerCase().replace(/[^a-z0-9]/g, '-');
   const emblemPath = `emblems/${slug}.png`;
@@ -83,6 +94,11 @@ async function openInfoCard(monument, kingdomColor) {
   loader.textContent = 'Searching photo...';
 
   card.classList.add('active');
+
+  // Auto-collapse sidebar on mobile screens so map & card stay visible
+  if (window.innerWidth <= 768) {
+    document.getElementById('sidebar').classList.add('collapsed');
+  }
 
   // Center map smoothly on monument
   map.flyTo([monument.lat, monument.lng], 15, { duration: 1 });
