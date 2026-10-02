@@ -3,6 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta http-equiv="Content-Security-Policy" content="
+    default-src 'self';
+    script-src 'self' https://unpkg.com https://cdn.jsdelivr.net;
+    style-src 'self' https://unpkg.com 'unsafe-inline';
+    img-src 'self' data: https:;
+    connect-src 'self' https://en.wikipedia.org;
+    font-src 'self';
+    base-uri 'self';
+    form-action 'none';
+    frame-ancestors 'none';
+    object-src 'none';
+  ">
   <title>The Many Cities of Delhi — Layers of Empires</title>
 
   <!-- Primary Meta Tags -->
@@ -23,17 +35,21 @@
   <meta name="twitter:description" content="An interactive Apple-style map exploring Delhi's historical monuments across 18 chronological kingdoms." />
   <meta name="twitter:image" content="https://kaustubh-misra.github.io/delhi-monuments/preview.png" />
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha384-sHL9NAb7lN7rfvG5lfHpm643Xkcjzp4jFvuavGOndn6pjVqS6ny56CAt3nsEVT4H"
+        crossorigin="anonymous" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <!-- Floating Sidebar Toggle Button -->
-  <button id="sidebar-toggle" onclick="toggleSidebar()" aria-label="Toggle Sidebar">
+  <button id="sidebar-toggle" aria-label="Toggle Sidebar">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
       <line x1="3" y1="12" x2="21" y2="12"></line>
       <line x1="3" y1="6" x2="21" y2="6"></line>
       <line x1="3" y1="18" x2="21" y2="18"></line>
     </svg>
+    <span id="toggle-count" aria-hidden="true"></span>
   </button>
 
   <div id="sidebar">
@@ -46,7 +62,7 @@
         Layers of empires
       </h2>
     </div>
-    
+
     <!-- Search Container with Dropdown Suggestions -->
     <div class="search-box-container">
       <input type="text" id="search-input" placeholder="Search monument (e.g. Ugrasen)..." autocomplete="off" />
@@ -54,18 +70,28 @@
     </div>
 
     <div class="btn-group">
-      <button onclick="toggleAllLayers(true)">Select All</button>
-      <button onclick="toggleAllLayers(false)">Deselect All</button>
+      <button id="btn-all">All</button>
+      <button id="btn-reset" class="btn-reset">Reset</button>
     </div>
     <div id="layer-list"></div>
   </div>
 
   <div id="map"></div>
 
+  <!-- Chronological timeline strip -->
+  <div id="timeline" aria-label="Dynasty timeline"></div>
+
+  <!-- Onboarding toast -->
+  <div id="onboard-toast" role="status">
+    <span>Tap a dynasty on the timeline to add it to the map.</span>
+    <button class="onboard-close" aria-label="Dismiss">&times;</button>
+  </div>
+
   <!-- Google Maps Style Slide-Out Info Card -->
   <div id="info-card">
-    <button class="close-card-btn" onclick="closeInfoCard()">&times;</button>
+    <button id="card-close" class="close-card-btn" aria-label="Close">&times;</button>
     <div class="card-hero-image" id="card-hero">
+      <img id="card-hero-img" alt="" />
       <div class="image-loader" id="card-loader">Loading image...</div>
     </div>
     <div class="card-content">
@@ -75,16 +101,20 @@
         <span id="card-era-badge" class="badge-era">Era</span>
       </div>
       <p id="card-desc" class="card-description"></p>
-      
-      <a id="card-directions-btn" target="_blank" rel="noopener" class="directions-btn">
+
+      <a id="card-directions-btn" target="_blank" rel="noopener noreferrer" class="directions-btn">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
         Get Directions on Google Maps
       </a>
     </div>
   </div>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha384-cxOPjt7s7Iz04uaHJceBmS+qpjv2JkIHNVcuOrM+YHwZOmJGBXI00mdUXEq65HTH"
+          crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"
+          integrity="sha384-zPE55eyESN+FxCWGEnlNxGyAPJud6IZ6TtJmXb56OFRGhxZPN4akj9rjA3gw5Qqa"
+          crossorigin="anonymous"></script>
   <script src="app.js"></script>
 </body>
 </html>
